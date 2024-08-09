@@ -3,6 +3,7 @@
 
 
 Welcome to Frontiers of AI Agents Tutorial @ CIKM 2024!
+![Alt text for the image](Aiagents.jpg)
 
 Overview:
 
