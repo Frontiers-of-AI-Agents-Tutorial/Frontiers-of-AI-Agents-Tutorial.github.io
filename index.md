@@ -3,7 +3,8 @@
 
 
 Welcome to Frontiers of AI Agents Tutorial @ CIKM 2024!
-<img src="Aiagents.jpg" alt="Image generated using Bing Image Creator" width="300">
+
+<img src="Aiagents.jpg" alt="Image generated using Bing Image Creator" width="600">
 
 Overview:
 
