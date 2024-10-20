@@ -17,6 +17,11 @@ Large Language Models (LLMs) have recently demonstrated remarkable potential in 
 5. Safety and Efficiency of Agentic Workflows
 
 ### Presenters
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/Frontiers-of-AI-Agents-Tutorial/Frontiers-of-AI-Agents-Tutorial.github.io/main/Images/Jia_He_image.jpg" alt="Jia He" width="150">
+    <p>Jia He</p>
+    <a href="https://www.linkedin.com/in/jia-he-46265212b/" target="_blank">LinkedIn</a>
+  </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Frontiers-of-AI-Agents-Tutorial/Frontiers-of-AI-Agents-Tutorial.github.io/main/Images/thumbnail_5BC550D8-0326-45E9-8D5F-214D27B4BFB9.jpg" alt="Reshmi Ghosh" width="150">
@@ -24,11 +29,6 @@ Large Language Models (LLMs) have recently demonstrated remarkable potential in 
     <a href="https://www.linkedin.com/in/reshmi-ghosh" target="_blank">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?user=ui8JeF5lKNMC&hl=en" target="_blank">Scholar Google</a> |
     <a href="https://reshmighosh.github.io/" target="_blank">Website</a>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Frontiers-of-AI-Agents-Tutorial/Frontiers-of-AI-Agents-Tutorial.github.io/main/Images/Jia_He_image.jpg" alt="Jia He" width="150">
-    <p>Jia He</p>
-    <a href="https://www.linkedin.com/in/jia-he-46265212b/" target="_blank">LinkedIn</a>
   </div>
   <div style="margin: 10px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Frontiers-of-AI-Agents-Tutorial/Frontiers-of-AI-Agents-Tutorial.github.io/main/Images/Kabir_walia_picture.jpg" alt="Kabir Walia" width="150">
