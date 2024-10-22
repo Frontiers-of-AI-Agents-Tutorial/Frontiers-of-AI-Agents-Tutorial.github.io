@@ -16,7 +16,7 @@ Large Language Models (LLMs) have recently demonstrated remarkable potential in 
 4. Agentic Workflow Evaluation
 5. Safety and Efficiency of Agentic Workflows
 
-Checkout the detailed tutorial outline at ACM CIKM '24: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management [here][https://dl.acm.org/doi/proceedings/10.1145/3627673]
+Checkout the detailed tutorial outline at ACM CIKM '24: Proceedings of the 33rd ACM International Conference on Information and Knowledge Management [here](https://dl.acm.org/doi/proceedings/10.1145/3627673)
 
 ### Presenters
   <div style="margin: 10px; text-align: center;">
@@ -50,7 +50,7 @@ Checkout the detailed tutorial outline at ACM CIKM '24: Proceedings of the 33rd 
   </div>
   <div style="margin: 10px; text-align: center;">
     <img src="https://raw.githubusercontent.com/Frontiers-of-AI-Agents-Tutorial/Frontiers-of-AI-Agents-Tutorial.github.io/main/Images/JennyC_C_Image.jpg" alt="Jie Chen" width="150">
-    <p>Jie Chen</p>
+    <p>Jenny Chen</p>
     <a href="https://www.linkedin.com/in/jieqchen/" target="_blank">LinkedIn</a>
   </div>
 </div>
