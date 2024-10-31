@@ -1,4 +1,4 @@
-
+### &emsp;&emsp; [ABOUT](./index.md) &emsp; Sessions &emsp; [Learning Resources](./Resources) &emsp;
 
 Join us in Room 100C on 21st October 2024, 9:00 am :)
 
