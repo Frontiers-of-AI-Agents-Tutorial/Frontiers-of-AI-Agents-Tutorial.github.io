@@ -1,4 +1,4 @@
-### &emsp;&emsp; ABOUT  &emsp; [Sessions](./Sessions.md) &emsp; [Learning Resources](./Resources) &emsp;
+### &emsp;&emsp; ABOUT  &emsp; [Sessions](./Sessions.md) &emsp; [Learning Resources](./Resources.md) &emsp;
 
 Welcome to "Frontiers of Large Language Model-Based Agentic Systems – Construction, Efficacy and Safety" Tutorial @ CIKM 2024!
 <div style="text-align: center;">
