@@ -31,29 +31,31 @@ Here, the focus is on the methodologies employed in building agents powered by L
 Additional Readings:
 1. ["If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents"](https://arxiv.org/abs/2401.00812#:~:text=As%20a%20medium%20between%20humans%20and%20computers%2C%20code,benefits%20of%20integrating%20code%20into%20LLMs%27%20training%20data.)
 
-### 3. Multi-Agent Systems and differentials from a Single-Agent System
-In this section, we go over differentiators that makes multi-agent systems different from single-agent systems. We cover topics such as collaboration patterns, notable multi-agent system frameworks such as AutoGen and present a hands on demo for configuring a multi-agent system 
+### 3. Multi-Agent Systems and differentials from a Single-Agent System 
+Presented by: April Hazel, Tushar Dhadiwal
+
+In this section, we go over differentiators that makes multi-agent systems different from single-agent systems. We cover topics such as collaboration patterns, notable multi-agent system frameworks such as AutoGen and present a hands on demo for configuring a multi-agent system. Find the notebook [here](https://github.com/Frontiers-of-AI-Agents-Tutorial/Hands-on-Notebooks/blob/main/notebook.ipynb).
 
 
 ### 4. Evaluations and Efficient Agent frameworks
+Presented by: Jenny Chen, Reshmi Ghosh
+
+
 Evaluation choices for Agents are a non-trivial task. The session will go over how to make decisions, understand tradeoffs related to **single-trajectory**, **end-to-end** evaluations, automated evaluations using LLM Judge vs. grounded, deterministic metrics, and examples of how to think about and standardize evaluations procedure. 
 
-Efficient frameworks 
+Efficient frameworks - This part evaluates the performance metrics of LLM-based agents, including accuracy, adaptability, and user satisfaction. It presents case studies where these agents have been deployed, demonstrating their ability to understand context, generate human-like responses, and learn from interactions to improve over time. The discussion also covers the challenges faced in measuring efficacy, such as handling ambiguous inputs and maintaining coherence in extended interactions.
+[Additional Readings:]
 
 
 ### 5. Safety Considerations in LLM-Based Agentic Systems
+Presnted by Reshmi Ghosh
 
 
 
 Additionally, safety is a critical aspect addressed in this section, focusing on the potential risks associated with autonomous LLM agents. Topics include the prevention of harmful outputs, ensuring fairness and bias mitigation, and safeguarding user privacy. The section references recent studies on AI safety, such as the work on TrustLLM, which establishes benchmarks across dimensions like truthfulness, safety, and fairness citeturn0search6. Additionally, it discusses frameworks like TrustAgent, designed to enhance the safety of LLM-based agents through strategic planning and adherence to predefined constitutions 
 
-### 6. Efficacy of LLM-Based Agents
 
-This part evaluates the performance metrics of LLM-based agents, including accuracy, adaptability, and user satisfaction. It presents case studies where these agents have been deployed, demonstrating their ability to understand context, generate human-like responses, and learn from interactions to improve over time. The discussion also covers the challenges faced in measuring efficacy, such as handling ambiguous inputs and maintaining coherence in extended interactions.
-[Additional Readings:]
-
-
-### 6. Future Directions and Research Opportunities**
+### 6. Future Directions and Research Opportunities
 
 The final section outlines prospective avenues for advancing LLM-based agentic systems. It emphasizes the need for interdisciplinary research combining machine learning, ethics, and human-computer interaction to develop agents that are not only effective but also trustworthy. The section also highlights the importance of creating robust benchmarks, such as SafeAgentBench, to evaluate the safety and task planning capabilities of embodied LLM agents citeturn0academia11. Emerging trends like the incorporation of human-centered design principles in AutoML paradigms are also discussed, promoting collaborative design of ML systems that integrate human expertise and values citeturn0search7.
 
