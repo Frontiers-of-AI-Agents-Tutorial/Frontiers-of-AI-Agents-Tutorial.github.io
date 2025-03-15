@@ -32,15 +32,18 @@ Additional Readings:
 1. ["If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents"](https://arxiv.org/abs/2401.00812#:~:text=As%20a%20medium%20between%20humans%20and%20computers%2C%20code,benefits%20of%20integrating%20code%20into%20LLMs%27%20training%20data.)
 
 ### 3. Multi-Agent Systems and differentials from a Single-Agent System
-In this 
+In this section, we go over differentiators that makes multi-agent systems different from single-agent systems. We cover topics such as collaboration patterns, notable multi-agent system frameworks such as AutoGen and present a hands on demo for configuring a multi-agent system 
 
 
-### 4. Evaluations 
+### 4. Evaluations and Efficient Agent frameworks
+Evaluation choices for Agents are a non-trivial task. The session will go over how to make decisions, understand tradeoffs related to **single-trajectory**, **end-to-end** evaluations, automated evaluations using LLM Judge vs. grounded, deterministic metrics, and examples of how to think about and standardize evaluations procedure. 
+
+Efficient frameworks 
 
 
 ### 5. Safety Considerations in LLM-Based Agentic Systems
 
-Evaluation choices for Agents are a non-trivial task. The session will go over how to make decisions, understand tradeoffs related to **single-trajectory**, **end-to-end** evaluations, automated evaluations using LLM Judge vs. grounded, deterministic metrics, and examples of how to think about and standardize evaluations procedure. 
+
 
 Additionally, safety is a critical aspect addressed in this section, focusing on the potential risks associated with autonomous LLM agents. Topics include the prevention of harmful outputs, ensuring fairness and bias mitigation, and safeguarding user privacy. The section references recent studies on AI safety, such as the work on TrustLLM, which establishes benchmarks across dimensions like truthfulness, safety, and fairness citeturn0search6. Additionally, it discusses frameworks like TrustAgent, designed to enhance the safety of LLM-based agents through strategic planning and adherence to predefined constitutions 
 
